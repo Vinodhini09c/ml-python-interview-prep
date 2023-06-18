@@ -46,7 +46,6 @@ Finally, in that activated virtual environment, verify that we are able to print
 ```
 
 If you see a response that begins with `Error`, follow the instructions it provides.
-[MacOS SSL debugging] may be helpful.
 
 
 [RealPython installation guide]: https://realpython.com/installing-python/
